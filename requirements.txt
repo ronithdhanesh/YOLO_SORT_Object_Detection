@@ -1,5 +1,5 @@
 numpy
-opencv-python
+opencv-python~=4.11.0.86
 torch
 torchvision
 scipy
@@ -7,3 +7,6 @@ matplotlib
 pandas
 scikit-learn
 filterpy
+
+cvzone~=1.6.1
+ultralytics~=8.3.152
